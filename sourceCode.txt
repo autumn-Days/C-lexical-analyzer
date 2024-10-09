@@ -1,0 +1,7 @@
+string 01hello = "hello, world";
+int myVar = 12;
+string hello = "Hello, world";
+int <.....> > 2;
+int a = 0 ;
+int b = 5 + a ;
+string c = "teSte" ;

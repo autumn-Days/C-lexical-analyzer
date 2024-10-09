@@ -1,0 +1,16 @@
+//Este é o arquivo com as expressões regulares associados a cada token
+
+TOKENS = {
+    'INT':'in.t.',
+    'STRING':'st.r.i.n.g.',
+'ID':'_ab|c|d|e|f|g|h|i|j|k|l|m|n|o|p|q|r|s|t|u|v|w|x|y|z||AB|C|D|E|F|G|H|I|J|K|L|M|N|O|P|Q|R|S|T|U|V|W|X|Y|Z||_ab|c|d|e|f|g|h|i|j|k|l|m|n|o|p|q|r|s|t|u|v|w|x|y|z||AB|C|D|E|F|G|H|I|J|K|L|M|N|O|P|Q|R|S|T|U|V|W|X|Y|Z||01|2|3|4|5|6|7|8|9||^.',
+    'EQ':'=',
+    'NUM':'01|2|3|4|5|6|7|8|9|01|2|3|4|5|6|7|8|9|^.',
+    'ADD':'+',
+    'SUB':'-',
+    'MULT':'*',
+    'SEMICOLON':';',
+    'GREATER':'>',
+    'LESS':'<',
+    'CONST':'"ab|c|d|e|f|g|h|i|j|k|l|m|n|o|p|q|r|s|t|u|v|w|x|y|z|A|B|C|D|E|F|G|H|I|J|K|L|M|N|O|P|Q|R|S|T|U|V|W|X|Y|Z|0|1|2|3|4|5|6|7|8|9| |;|_|=|-|*|,|^.".'
+    }

@@ -1,0 +1,12 @@
+INT representa o tipo "inteiro"
+STRING representa o tipo "string"
+ID representa o identificador, em paralelo com os exemplos que o senhor deu na descrição, este token equivale a VAR
+EQ representa o simbolo de atribuição
+NUM representa um numero inteiro
+ADD representa o símbolo associado a soma
+SUB representa o símbolo associado a subtração
+MULT representa o símbolo associado a multiplicação
+SEMICOLON representa o ponto e virgula
+GREATER representa o símbolo "maior quê"
+LESS representa o símbolo "menor quê"
+CONST representa texto entre aspas duplas, ou seja, texto
