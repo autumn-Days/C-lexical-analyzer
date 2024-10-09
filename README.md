@@ -20,6 +20,7 @@ Here are the general steps used to make it come to life:
 ## 3. Example of possible inputs
 
 |Inputs| Output |
+|-|-|
 |int a = 0 ;| INT VAR EQ ZERO SEMICOLON |
 |in b = 5 + a ;| ERROR |
 |string c = “teSte” ;| STRING VAR EQ CONST SEMICOLON |
