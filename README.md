@@ -1,4 +1,4 @@
-# C lexical analyzer
+# A lexical analyzer
 
 ## 1. General description
 
